@@ -54,7 +54,7 @@ FINAL은 ```Cascade R-CNN``` 모델이 사용되었습니다.
 
 
 ## Result
-mAP `0.`
+mAP `0.996`
  
 ## Development Environment
 ```
