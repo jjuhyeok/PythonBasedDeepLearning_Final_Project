@@ -39,7 +39,8 @@ python .\tools\test.py '{config_file_path}' '{model_result_path}' --format-only 
 ## Experiment
 기본 적용된 증강 기법은 Resize, Flip, Normalize입니다.   
 실험에는 Faster R-CNN, EfficientDet, Swin Transformer, Libra R-CNN, 그리고 YOLO가 사용되었습니다.  
-다른 실험들은 "finished_experiments" 폴더에서 확인할 수 있습니다. FINAL은 Cascade R-CNN 모델이 사용되었습니다.  
+다른 실험들은 "finished_experiments" 폴더에서 확인할 수 있습니다.   
+FINAL은 ```Cascade R-CNN``` 모델이 사용되었습니다.   
 
 | Model         | Backbone | Depth | Augmentation                                      |  mAp |
 |---------------|----------|-------|---------------------------------------------------|------|
